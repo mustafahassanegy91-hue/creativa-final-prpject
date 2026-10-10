@@ -1,0 +1,427 @@
+{
+ "products": [
+  {
+   "id": 1,
+   "title": "Essence Mascara Lash Princess",
+   "description": "Essence Mascara Lash Princess by Essence.",
+   "category": "beauty",
+   "price": 9.99,
+   "rating": 2.56,
+   "stock": 99,
+   "brand": "Essence",
+   "thumbnail": "https://cdn.dummyjson.com/product-images/beauty/essence-mascara-lash-princess/thumbnail.webp",
+   "images": [
+    "https://cdn.dummyjson.com/product-images/beauty/essence-mascara-lash-princess/1.webp"
+   ]
+  },
+  {
+   "id": 2,
+   "title": "Eyeshadow Palette with Mirror",
+   "description": "Eyeshadow Palette with Mirror by Glamour Beauty.",
+   "category": "beauty",
+   "price": 19.99,
+   "rating": 2.86,
+   "stock": 34,
+   "brand": "Glamour Beauty",
+   "thumbnail": "https://cdn.dummyjson.com/product-images/beauty/eyeshadow-palette-with-mirror/thumbnail.webp",
+   "images": [
+    "https://cdn.dummyjson.com/product-images/beauty/eyeshadow-palette-with-mirror/1.webp"
+   ]
+  },
+  {
+   "id": 3,
+   "title": "Powder Canister",
+   "description": "Powder Canister by Velvet Touch.",
+   "category": "beauty",
+   "price": 14.99,
+   "rating": 4.64,
+   "stock": 89,
+   "brand": "Velvet Touch",
+   "thumbnail": "https://cdn.dummyjson.com/product-images/beauty/powder-canister/thumbnail.webp",
+   "images": [
+    "https://cdn.dummyjson.com/product-images/beauty/powder-canister/1.webp"
+   ]
+  },
+  {
+   "id": 4,
+   "title": "Red Lipstick",
+   "description": "Red Lipstick by Chic Cosmetics.",
+   "category": "beauty",
+   "price": 12.99,
+   "rating": 4.36,
+   "stock": 91,
+   "brand": "Chic Cosmetics",
+   "thumbnail": "https://cdn.dummyjson.com/product-images/beauty/red-lipstick/thumbnail.webp",
+   "images": [
+    "https://cdn.dummyjson.com/product-images/beauty/red-lipstick/1.webp"
+   ]
+  },
+  {
+   "id": 5,
+   "title": "Red Nail Polish",
+   "description": "Red Nail Polish by Nail Couture.",
+   "category": "beauty",
+   "price": 8.99,
+   "rating": 4.32,
+   "stock": 79,
+   "brand": "Nail Couture",
+   "thumbnail": "https://cdn.dummyjson.com/product-images/beauty/red-nail-polish/thumbnail.webp",
+   "images": [
+    "https://cdn.dummyjson.com/product-images/beauty/red-nail-polish/1.webp"
+   ]
+  },
+  {
+   "id": 6,
+   "title": "Calvin Klein CK One",
+   "description": "Calvin Klein CK One by Calvin Klein.",
+   "category": "fragrances",
+   "price": 49.99,
+   "rating": 4.37,
+   "stock": 29,
+   "brand": "Calvin Klein",
+   "thumbnail": "https://cdn.dummyjson.com/product-images/fragrances/calvin-klein-ck-one/thumbnail.webp",
+   "images": [
+    "https://cdn.dummyjson.com/product-images/fragrances/calvin-klein-ck-one/1.webp"
+   ]
+  },
+  {
+   "id": 7,
+   "title": "Chanel Coco Noir Eau De",
+   "description": "Chanel Coco Noir Eau De by Chanel.",
+   "category": "fragrances",
+   "price": 129.99,
+   "rating": 4.26,
+   "stock": 58,
+   "brand": "Chanel",
+   "thumbnail": "https://cdn.dummyjson.com/product-images/fragrances/chanel-coco-noir-eau-de/thumbnail.webp",
+   "images": [
+    "https://cdn.dummyjson.com/product-images/fragrances/chanel-coco-noir-eau-de/1.webp"
+   ]
+  },
+  {
+   "id": 8,
+   "title": "Dior J'adore",
+   "description": "Dior J'adore by Dior.",
+   "category": "fragrances",
+   "price": 89.99,
+   "rating": 3.8,
+   "stock": 98,
+   "brand": "Dior",
+   "thumbnail": "https://cdn.dummyjson.com/product-images/fragrances/dior-jadore/thumbnail.webp",
+   "images": [
+    "https://cdn.dummyjson.com/product-images/fragrances/dior-jadore/1.webp"
+   ]
+  },
+  {
+   "id": 9,
+   "title": "Dolce Shine Eau de",
+   "description": "Dolce Shine Eau de by Dolce & Gabbana.",
+   "category": "fragrances",
+   "price": 69.99,
+   "rating": 3.96,
+   "stock": 4,
+   "brand": "Dolce & Gabbana",
+   "thumbnail": "https://cdn.dummyjson.com/product-images/fragrances/dolce-shine-eau-de/thumbnail.webp",
+   "images": [
+    "https://cdn.dummyjson.com/product-images/fragrances/dolce-shine-eau-de/1.webp"
+   ]
+  },
+  {
+   "id": 10,
+   "title": "Gucci Bloom Eau de",
+   "description": "Gucci Bloom Eau de by Gucci.",
+   "category": "fragrances",
+   "price": 79.99,
+   "rating": 2.74,
+   "stock": 91,
+   "brand": "Gucci",
+   "thumbnail": "https://cdn.dummyjson.com/product-images/fragrances/gucci-bloom-eau-de/thumbnail.webp",
+   "images": [
+    "https://cdn.dummyjson.com/product-images/fragrances/gucci-bloom-eau-de/1.webp"
+   ]
+  },
+  {
+   "id": 11,
+   "title": "Annibale Colombo Bed",
+   "description": "Annibale Colombo Bed by Annibale Colombo.",
+   "category": "furniture",
+   "price": 1899.99,
+   "rating": 4.77,
+   "stock": 88,
+   "brand": "Annibale Colombo",
+   "thumbnail": "https://cdn.dummyjson.com/product-images/furniture/annibale-colombo-bed/thumbnail.webp",
+   "images": [
+    "https://cdn.dummyjson.com/product-images/furniture/annibale-colombo-bed/1.webp"
+   ]
+  },
+  {
+   "id": 12,
+   "title": "Annibale Colombo Sofa",
+   "description": "Annibale Colombo Sofa by Annibale Colombo.",
+   "category": "furniture",
+   "price": 2499.99,
+   "rating": 3.92,
+   "stock": 60,
+   "brand": "Annibale Colombo",
+   "thumbnail": "https://cdn.dummyjson.com/product-images/furniture/annibale-colombo-sofa/thumbnail.webp",
+   "images": [
+    "https://cdn.dummyjson.com/product-images/furniture/annibale-colombo-sofa/1.webp"
+   ]
+  },
+  {
+   "id": 13,
+   "title": "Bedside Table African Cherry",
+   "description": "Bedside Table African Cherry by Furniture Co..",
+   "category": "furniture",
+   "price": 299.99,
+   "rating": 2.87,
+   "stock": 64,
+   "brand": "Furniture Co.",
+   "thumbnail": "https://cdn.dummyjson.com/product-images/furniture/bedside-table-african-cherry/thumbnail.webp",
+   "images": [
+    "https://cdn.dummyjson.com/product-images/furniture/bedside-table-african-cherry/1.webp"
+   ]
+  },
+  {
+   "id": 14,
+   "title": "Knoll Saarinen Executive Conference Chair",
+   "description": "Knoll Saarinen Executive Conference Chair by Knoll.",
+   "category": "furniture",
+   "price": 499.99,
+   "rating": 4.88,
+   "stock": 26,
+   "brand": "Knoll",
+   "thumbnail": "https://cdn.dummyjson.com/product-images/furniture/knoll-saarinen-executive-conference-chair/thumbnail.webp",
+   "images": [
+    "https://cdn.dummyjson.com/product-images/furniture/knoll-saarinen-executive-conference-chair/1.webp"
+   ]
+  },
+  {
+   "id": 15,
+   "title": "Wooden Bathroom Vanity",
+   "description": "Wooden Bathroom Vanity by Bath Trends.",
+   "category": "furniture",
+   "price": 800.99,
+   "rating": 4.85,
+   "stock": 7,
+   "brand": "Bath Trends",
+   "thumbnail": "https://cdn.dummyjson.com/product-images/furniture/wooden-bathroom-vanity/thumbnail.webp",
+   "images": [
+    "https://cdn.dummyjson.com/product-images/furniture/wooden-bathroom-vanity/1.webp"
+   ]
+  },
+  {
+   "id": 16,
+   "title": "Apple",
+   "description": "Apple by Fresh Farms.",
+   "category": "groceries",
+   "price": 1.99,
+   "rating": 4.19,
+   "stock": 8,
+   "brand": "Fresh Farms",
+   "thumbnail": "https://cdn.dummyjson.com/product-images/groceries/apple/thumbnail.webp",
+   "images": [
+    "https://cdn.dummyjson.com/product-images/groceries/apple/1.webp"
+   ]
+  },
+  {
+   "id": 17,
+   "title": "Beef Steak",
+   "description": "Beef Steak by Butcher's Choice.",
+   "category": "groceries",
+   "price": 12.99,
+   "rating": 4.47,
+   "stock": 86,
+   "brand": "Butcher's Choice",
+   "thumbnail": "https://cdn.dummyjson.com/product-images/groceries/beef-steak/thumbnail.webp",
+   "images": [
+    "https://cdn.dummyjson.com/product-images/groceries/beef-steak/1.webp"
+   ]
+  },
+  {
+   "id": 18,
+   "title": "Cat Food",
+   "description": "Cat Food by Pet Delight.",
+   "category": "groceries",
+   "price": 8.99,
+   "rating": 3.13,
+   "stock": 46,
+   "brand": "Pet Delight",
+   "thumbnail": "https://cdn.dummyjson.com/product-images/groceries/cat-food/thumbnail.webp",
+   "images": [
+    "https://cdn.dummyjson.com/product-images/groceries/cat-food/1.webp"
+   ]
+  },
+  {
+   "id": 19,
+   "title": "Chicken Meat",
+   "description": "Chicken Meat by Farm Fresh.",
+   "category": "groceries",
+   "price": 9.99,
+   "rating": 3.19,
+   "stock": 97,
+   "brand": "Farm Fresh",
+   "thumbnail": "https://cdn.dummyjson.com/product-images/groceries/chicken-meat/thumbnail.webp",
+   "images": [
+    "https://cdn.dummyjson.com/product-images/groceries/chicken-meat/1.webp"
+   ]
+  },
+  {
+   "id": 20,
+   "title": "Cooking Oil",
+   "description": "Cooking Oil by Golden Harvest.",
+   "category": "groceries",
+   "price": 4.99,
+   "rating": 4.8,
+   "stock": 10,
+   "brand": "Golden Harvest",
+   "thumbnail": "https://cdn.dummyjson.com/product-images/groceries/cooking-oil/thumbnail.webp",
+   "images": [
+    "https://cdn.dummyjson.com/product-images/groceries/cooking-oil/1.webp"
+   ]
+  },
+  {
+   "id": 21,
+   "title": "Cucumber",
+   "description": "Cucumber by Green Garden.",
+   "category": "groceries",
+   "price": 1.49,
+   "rating": 4.07,
+   "stock": 84,
+   "brand": "Green Garden",
+   "thumbnail": "https://cdn.dummyjson.com/product-images/groceries/cucumber/thumbnail.webp",
+   "images": [
+    "https://cdn.dummyjson.com/product-images/groceries/cucumber/1.webp"
+   ]
+  },
+  {
+   "id": 22,
+   "title": "Dog Food",
+   "description": "Dog Food by Pet Delight.",
+   "category": "groceries",
+   "price": 10.99,
+   "rating": 4.55,
+   "stock": 71,
+   "brand": "Pet Delight",
+   "thumbnail": "https://cdn.dummyjson.com/product-images/groceries/dog-food/thumbnail.webp",
+   "images": [
+    "https://cdn.dummyjson.com/product-images/groceries/dog-food/1.webp"
+   ]
+  },
+  {
+   "id": 23,
+   "title": "Eggs",
+   "description": "Eggs by Farm Fresh.",
+   "category": "groceries",
+   "price": 2.99,
+   "rating": 2.51,
+   "stock": 9,
+   "brand": "Farm Fresh",
+   "thumbnail": "https://cdn.dummyjson.com/product-images/groceries/eggs/thumbnail.webp",
+   "images": [
+    "https://cdn.dummyjson.com/product-images/groceries/eggs/1.webp"
+   ]
+  },
+  {
+   "id": 24,
+   "title": "Fish Steak",
+   "description": "Fish Steak by Ocean Catch.",
+   "category": "groceries",
+   "price": 14.99,
+   "rating": 3.78,
+   "stock": 30,
+   "brand": "Ocean Catch",
+   "thumbnail": "https://cdn.dummyjson.com/product-images/groceries/fish-steak/thumbnail.webp",
+   "images": [
+    "https://cdn.dummyjson.com/product-images/groceries/fish-steak/1.webp"
+   ]
+  },
+  {
+   "id": 25,
+   "title": "Green Bell Pepper",
+   "description": "Green Bell Pepper by Green Garden.",
+   "category": "groceries",
+   "price": 1.29,
+   "rating": 3.53,
+   "stock": 45,
+   "brand": "Green Garden",
+   "thumbnail": "https://cdn.dummyjson.com/product-images/groceries/green-bell-pepper/thumbnail.webp",
+   "images": [
+    "https://cdn.dummyjson.com/product-images/groceries/green-bell-pepper/1.webp"
+   ]
+  },
+  {
+   "id": 26,
+   "title": "Green Chili Pepper",
+   "description": "Green Chili Pepper by Green Garden.",
+   "category": "groceries",
+   "price": 0.99,
+   "rating": 3.66,
+   "stock": 49,
+   "brand": "Green Garden",
+   "thumbnail": "https://cdn.dummyjson.com/product-images/groceries/green-chili-pepper/thumbnail.webp",
+   "images": [
+    "https://cdn.dummyjson.com/product-images/groceries/green-chili-pepper/1.webp"
+   ]
+  },
+  {
+   "id": 27,
+   "title": "Honey Jar",
+   "description": "Honey Jar by Sweet Nectar.",
+   "category": "groceries",
+   "price": 6.99,
+   "rating": 3.97,
+   "stock": 39,
+   "brand": "Sweet Nectar",
+   "thumbnail": "https://cdn.dummyjson.com/product-images/groceries/honey-jar/thumbnail.webp",
+   "images": [
+    "https://cdn.dummyjson.com/product-images/groceries/honey-jar/1.webp"
+   ]
+  },
+  {
+   "id": 28,
+   "title": "Ice Cream",
+   "description": "Ice Cream by Frosty Delights.",
+   "category": "groceries",
+   "price": 5.49,
+   "rating": 3.59,
+   "stock": 62,
+   "brand": "Frosty Delights",
+   "thumbnail": "https://cdn.dummyjson.com/product-images/groceries/ice-cream/thumbnail.webp",
+   "images": [
+    "https://cdn.dummyjson.com/product-images/groceries/ice-cream/1.webp"
+   ]
+  },
+  {
+   "id": 29,
+   "title": "Juice",
+   "description": "Juice by Fruitful.",
+   "category": "groceries",
+   "price": 3.99,
+   "rating": 3.62,
+   "stock": 74,
+   "brand": "Fruitful",
+   "thumbnail": "https://cdn.dummyjson.com/product-images/groceries/juice/thumbnail.webp",
+   "images": [
+    "https://cdn.dummyjson.com/product-images/groceries/juice/1.webp"
+   ]
+  },
+  {
+   "id": 30,
+   "title": "Kiwi",
+   "description": "Kiwi by Fresh Farms.",
+   "category": "groceries",
+   "price": 2.49,
+   "rating": 4.17,
+   "stock": 56,
+   "brand": "Fresh Farms",
+   "thumbnail": "https://cdn.dummyjson.com/product-images/groceries/kiwi/thumbnail.webp",
+   "images": [
+    "https://cdn.dummyjson.com/product-images/groceries/kiwi/1.webp"
+   ]
+  }
+ ],
+ "total": 30,
+ "skip": 0,
+ "limit": 30
+}
